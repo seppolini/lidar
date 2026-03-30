@@ -37,7 +37,7 @@ def get_ground_level(pcd):
 #adding pointer to file in root
 HERE = Path(__file__).resolve().parent
 
-name_dataset ="dataset1.npy" #Adjust here and pick out file name for automatic name in plot
+name_dataset ="dataset2.npy" #Adjust here and pick out file name for automatic name in plot
 
 
 #%% read file containing point cloud data
