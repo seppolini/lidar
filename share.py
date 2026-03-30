@@ -31,7 +31,7 @@ def show_scatter(x,y):
     plt.show()
 
 def get_ground_level(pcd):
-    return 61  #change to 61 based on histogram analyze for both data set
+    return 62  #change to 61 based on histogram analyze for both data set
 
 
 #adding pointer to file in root
